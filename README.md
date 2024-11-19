@@ -1,4 +1,4 @@
-# Site em Hugo com o TinaCMS
+# Site em Hugo framework com o TinaCMS
 
 Demonstração de como fazer a integração de um site feito com Hugo framework com o Tina CMS.
 
