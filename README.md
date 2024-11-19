@@ -1,6 +1,7 @@
 # Site em Hugo com o TinaCMS
 
-Demonstração da integração de um site feito com Hugo com o TinaCMS
-Todo o passo a passo da integração pode ser acompanhado através do link do tutorial abaixo:
+Demonstração da integração de um site feito com Hugo framework com o TinaCMS.
 
-**https://tiagoscosta.com.br/posts/hugo-framework-integrando-o-site-com-o-tinacms/**
+Todo o passo a passo pode ser acompanhado no link do tutorial
+
+https://tiagoscosta.com.br/posts/hugo-framework-integrando-o-site-com-o-tinacms/
