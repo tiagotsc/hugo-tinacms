@@ -6,4 +6,4 @@ Com objetivo de que você tenha toda uma parte de administração de conteúdo (
 
 Todo o passo a passo pode ser acompanhado no link do tutorial:
 
-https://tiagoscosta.com.br/posts/hugo-framework-integrando-o-site-com-o-tinacms
+https://tiagoscosta.com.br/posts/hugo-integração-de-site-com-o-tinacms
