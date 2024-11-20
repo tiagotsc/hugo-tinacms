@@ -1,6 +1,6 @@
 # Site em Hugo framework com o TinaCMS
 
-Demonstração de como fazer a integração de um site feito com Hugo framework com o Tina CMS.
+Demonstração de como fazer a integração de um site feito com Hugo framework com o TinaCMS.
 
 Com objetivo de que você tenha toda uma parte de administração de conteúdo (CMS) no seu site.
 
